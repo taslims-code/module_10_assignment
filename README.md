@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+## Protrait Mode
+![image](https://github.com/taslims-code/module_10_assignment/assets/63874350/6fb3b193-b24d-4f04-b233-67bc3d7b89a1)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Landscape Mode
+![image](https://github.com/taslims-code/module_10_assignment/assets/63874350/933c09b8-1d3a-4128-9b3f-27c492531961)
