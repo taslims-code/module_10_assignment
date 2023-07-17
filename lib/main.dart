@@ -42,17 +42,15 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
       ),
       body: OrientationBuilder(
         builder: (context, orientation) {
-          return LayoutBuilder(builder: (context, constraint) {
-            return orientation == Orientation.portrait
-                ? Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 8),
-                    child: buildPortrait(),
-                  )
-                : Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 8),
-                    child: buildLandscape(),
-                  );
-          });
+          return orientation == Orientation.portrait
+              ? Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 8),
+                  child: buildPortrait(),
+                )
+              : Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 8),
+                  child: buildLandscape(),
+                );
         },
       ),
     );
